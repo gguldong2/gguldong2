@@ -1,4 +1,4 @@
-## Hi there 👋
+## 반갑습니다~~! AI 엔지니어 정동영의 공간에 오신 걸 환영합니다! 👋
 
 <!--
 **gguldong2/gguldong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
